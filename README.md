@@ -16,7 +16,7 @@ Many of the notebooks include links to [Colab](https://colab.research.google.com
 
 ## Cheatsheet
 
-We're including a comprehensive [cheatsheet](https://github.com/pbeens/Data-Dunkers/blob/main/cheatsheet.md) of code snippets that you may find valuable in helping you write your programs.
+We're including a comprehensive [cheatsheet](https://github.com/Data-Dunkers/lessons/blob/main/cheatsheet.md) of code snippets that you may find valuable in helping you write your programs. | [Jupyter Notebook version](https://github.com/Data-Dunkers/lessons/blob/main/cheatsheet.ipynb)
 
 ## Credit
 
@@ -24,5 +24,5 @@ Many of the resources found or mentioned here are built upon the tutorials found
 
 ## Quick Links 
 
-([Backup](https://docs.google.com/document/d/1y45a0CFM9awI000kiRR_eHZSpNiujWjeZuK6NmEHWx0/edit#heading=h.4327k57eu2sy))
+([Backup Doc](https://docs.google.com/document/d/1y45a0CFM9awI000kiRR_eHZSpNiujWjeZuK6NmEHWx0/edit#heading=h.4327k57eu2sy))
 

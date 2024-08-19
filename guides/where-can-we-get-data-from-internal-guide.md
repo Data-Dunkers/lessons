@@ -1,4 +1,3 @@
-
 # Getting Data from Within the Jupyter Notebook or .py File (Teacher's Guide)
 
 ## Table of Contents
@@ -27,21 +26,21 @@ The Input, Process, Output (IPO) model is a foundational concept in programming,
 
 To embark on our journey into data analysis within Jupyter Notebooks, establishing a well-equipped environment is key. This means having the necessary Python libraries at our disposal.
 
-**Why `plotly_express`?** While `matplotlib` is a cornerstone in Python data visualization, known for its extensive customization capabilities, we opt for `plotly_express` in this tutorial. `plotly_express` excels with its interactive features, making it simpler for beginners to dive into data visualization. The interactive graphs enhance data exploration, allowing for immediate insights through features like hovering, zooming, and filtering.
+**Why `plotly.express`?** While `matplotlib` is a cornerstone in Python data visualization, known for its extensive customization capabilities, we opt for `plotly.express` in this tutorial. `plotly.express` excels with its interactive features, making it simpler for beginners to dive into data visualization. The interactive graphs enhance data exploration, allowing for immediate insights through features like hovering, zooming, and filtering.
 
-**Installing Python Libraries:** Install `plotly_express` by executing the following in your notebook. Note that this will not be required if plotly_express is already installed.
-
-```python
-!pip install plotly_express
-```
-
-**Basic Setup:** Once installed, import `plotly_express` to signal your notebook's readiness for dynamic data visualization:
+**Installing Python Libraries:** Install `plotly.express` by executing the following in your notebook. Note that this will not be required if plotly.express is already installed.
 
 ```python
-import plotly_express as px
+!pip install plotly.express
 ```
 
-*This setup ensures you're prepared for the subsequent steps of data visualization, leveraging `plotly_express`'s interactive capabilities for a more intuitive analysis experience.*
+**Basic Setup:** Once installed, import `plotly.express` to signal your notebook's readiness for dynamic data visualization:
+
+```python
+import plotly.express as px
+```
+
+*This setup ensures you're prepared for the subsequent steps of data visualization, leveraging `plotly.express`'s interactive capabilities for a more intuitive analysis experience.*
 
 ## Chapter 3: Input
 
@@ -75,12 +74,12 @@ Although our simple example doesn't involve processing before visualization, the
 
 ## Chapter 5: Output - Visualizing Data
 
-Bringing our data to life through visualization is a key step in our Jupyter Notebook analysis, and `plotly_express` brings the power of interactive and engaging graphics easily into our workflow. These plots are interactive, allowing you to explore the data by zooming, hovering, and more. While we'll start with a simple example, keep in mind that `plotly_express` offers many ways to customize the appearance of your visualizations. 
+Bringing our data to life through visualization is a key step in our Jupyter Notebook analysis, and `plotly.express` brings the power of interactive and engaging graphics easily into our workflow. These plots are interactive, allowing you to explore the data by zooming, hovering, and more. While we'll start with a simple example, keep in mind that `plotly.express` offers many ways to customize the appearance of your visualizations. 
 
-Here's how we create a simple yet effective line plot to visualize the relationship between `x_data` and `y_data`. While this is a simple plot, `plotly_express` offers many ways to customize the appearance of your visualizations.
+Here's how we create a simple yet effective line plot to visualize the relationship between `x_data` and `y_data`. While this is a simple plot, `plotly.express` offers many ways to customize the appearance of your visualizations.
 
 ```python
-import plotly_express as px
+import plotly.express as px
 
 # Creating a line plot
 fig = px.line(x=x_data, y=y_data, title='X vs Y Plot')
@@ -89,7 +88,7 @@ fig = px.line(x=x_data, y=y_data, title='X vs Y Plot')
 fig.show()
 ```
 
-- `import plotly_express as px`: This imports the `plotly_express` library, equipping us with various plotting capabilities.
+- `import plotly.express as px`: This imports the `plotly.express` library, equipping us with various plotting capabilities.
 - `px.line(...)`: Creates a line plot. We specify `x_data` for the x-axis and `y_data` for the y-axis. The `title` parameter is used to give the plot a meaningful name.
 - `fig.show()`: This command renders the plot within the notebook, allowing us to see the visual representation of our data.
 
@@ -100,7 +99,7 @@ fig.show()
 To summarize, we closely examined how each segment of the example Python code exemplifies the Input, Process, Output (IPO) model for our example where we used data included right in the notebook. 
 
 ```python
-import plotly_express as px
+import plotly.express as px
 
 # Define the data
 x_data = [0, 1, 2, 3, 4, 5]
@@ -113,7 +112,7 @@ fig = px.line(x=x_data, y=y_data, title='Our Data Visualization')
 fig.show()
 ```
 
-Initially, through the Setup phase, we utilized `import plotly_express as px` to prepare our environment with essential visualization tools. 
+Initially, through the Setup phase, we utilized `import plotly.express as px` to prepare our environment with essential visualization tools. 
 
 The Input was represented by defining `x_data` and `y_data`, arrays that store our raw data points. 
 

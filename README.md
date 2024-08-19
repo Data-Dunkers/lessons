@@ -8,7 +8,7 @@ If you are doing the condensed workshop that focuses on the **Hoops** activity, 
 
 ## Lessons
 
-See [this document](https://github.com/pbeens/Data-Dunkers/blob/main/Lessons.ipynb) for the list of suggested lessons.
+See [this document](https://github.com/Data-Dunkers/lessons/blob/main/lessons.ipynb) for the list of suggested lessons.
 
 ## Colab vs Callysto
 

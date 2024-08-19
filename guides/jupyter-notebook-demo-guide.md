@@ -1,6 +1,6 @@
 # Jupyter Notebook — Demo (Teacher's Guide)
 
-This comprehensive guide serves as a companion to the [Jupyter Notebook Demo](https://github.com/pbeens/Data-Dunkers/blob/main/Demos/jupyter-notebook-demo.ipynb), designed to introduce users to the rich functionalities of Jupyter Notebooks. Jupyter Notebooks offer an interactive computing environment where users can combine live code, equations, visualizations, and narrative text in a single document. Whether you are a data scientist, researcher, educator, or hobbyist, this guide aims to provide you with a thorough understanding of how to leverage Jupyter Notebooks for your projects.
+This comprehensive guide serves as a companion to the [Jupyter Notebook Demo](https://github.com/Data-Dunkers/lessons/blob/main/jupyter-notebook-demo.ipynb), designed to introduce users to the rich functionalities of Jupyter Notebooks. Jupyter Notebooks offer an interactive computing environment where users can combine live code, equations, visualizations, and narrative text in a single document. Whether you are a data scientist, researcher, educator, or hobbyist, this guide aims to provide you with a thorough understanding of how to leverage Jupyter Notebooks for your projects.
 
 From the basics of Markdown for formatting your notebooks, to advanced uses like Python programming and data visualization, each chapter of this guide delves into key aspects of Jupyter Notebooks to help you make the most out of this powerful tool. Practical examples and tips are provided to enhance your learning experience and inspire your own projects.
 
@@ -161,8 +161,8 @@ Jupyter Notebooks facilitate the integration of live code, which is encapsulated
 **Variables and String Manipulation**: Assigning strings to variables and then printing them showcases basic variable usage and string manipulation.
 
   ```python
-  # Assign the string 'Peter' to the variable name
-  name = 'Peter'
+  # Assign the string 'Aisha' to the variable name
+  name = 'Aisha'
   # Print 'Hello' followed by the value of the variable name
   print('Hello', name)
   ```

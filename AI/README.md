@@ -14,5 +14,5 @@ This repository includes a variety of notebooks covering different AI topics, su
 ## 🚀 Getting Started
 Below are a couple of notebooks for students who are interested in getting started.
 
-**[Sentiment Analysis](sentiment-analysis.ipynb)**
-**[Image Recognition](image-recognition.ipynb)**
+- **[Sentiment Analysis](sentiment-analysis.ipynb)**
+- **[Image Recognition](image-recognition.ipynb)**

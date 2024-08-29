@@ -16,5 +16,5 @@ Below are a couple of notebooks for students who are interested in getting start
 
 - **[Sentiment Analysis](sentiment-analysis.ipynb)**
 - **[Image Recognition](image-recognition.ipynb)**
-- **[Visualization_Techniques](visualization-techniques.ipynb)**
-- **[Predicting_Positions](predicting-positions.ipynb)**
+- **[Visualization Techniques](visualization-techniques.ipynb)**
+- **[Predicting Positions](predicting-positions.ipynb)**

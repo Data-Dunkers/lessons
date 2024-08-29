@@ -8,7 +8,7 @@ This repository includes a variety of notebooks covering different AI topics, su
 
 - **Machine Learning Basics**: Introduction to basic machine learning principles and implementing simple and common models like RandomForestClassifier.
 - **Sentiment Analysis**: Techniques for analyzing text sentiment, using libraries like NLTK and others to classify emotions in text data.
-- **Image Recognition**: Understanding and implementing image classification using Teachable Machine website.
+- **Image Recognition**: Understanding and implementing image classification using the Teachable Machine website.
 - **ML Learning Algorithms**: In-depth exploration of various machine learning algorithms like k-means clustering.
 
 ## 🚀 Getting Started

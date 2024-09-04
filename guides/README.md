@@ -1,4 +1,4 @@
-# Guides Repository
+# Data Dunkers: Guides
 
 This repository contains a collection of PDF and Markdown guides designed to provide solutions and answers to common Python and Jupyter notebook issues. Whether you're troubleshooting specific errors or seeking best practices, these resources aim to assist you on your coding journey.
 

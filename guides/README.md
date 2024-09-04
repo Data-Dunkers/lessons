@@ -10,8 +10,7 @@ This repository includes a variety of guides covering different Python and Jupyt
 - **Data Science Tips**: Teaching the IPO model and showing basic ways to both obtain and visualize data.
 
 ## 🚀 Getting Started
-
-Below are some guides to get started:
+Below are a couple of notebooks for those who are interested in getting started.
 
 - **[Data Dunkers Teacher's Guide](Data-Dunkers-Teacher's-Guide.pdf)**
 - **[Columns Guide](columns-guide.pdf)**

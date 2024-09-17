@@ -1,4 +1,4 @@
-# AI Notebooks Repository
+# Data Dunkers: AI
 
 This collection of Jupyter notebooks is designed to provide higher-level coding and Python content for students interested in Artificial Intelligence (AI). Whether you're just starting out or looking to deepen your understanding of advanced AI topics, these resources are created to help you on your journey.
 

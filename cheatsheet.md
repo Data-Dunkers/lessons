@@ -24,25 +24,25 @@
 ## CSV file
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/read-csv.png" alt="pd.read_csv()" width="45%">
+<img src="https://raw.githubusercontent.com/Data-Dunkers/lessons/refs/heads/main/images/cheatsheet/read-csv.png" alt="pd.read_csv()" width="45%">
 </div>
 
 ## Excel file
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/read_excel.png" alt="pd.read_excel()" width="95%">
+<img src="https://raw.githubusercontent.com/Data-Dunkers/lessons/refs/heads/main/images/cheatsheet/read_excel.png" alt="pd.read_excel()" width="95%">
 </div>
 
 ## Table on webpage
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/read_html.png" alt="pd.read_html()" width="90%">
+<img src="https://raw.githubusercontent.com/Data-Dunkers/lessons/refs/heads/main/images/cheatsheet/read_html.png" alt="pd.read_html()" width="90%">
 </div>
 
 ## Google Sheet
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/google-sheet.png" alt="google sheet" width="90%">
+<img src="https://raw.githubusercontent.com/Data-Dunkers/lessons/refs/heads/main/images/cheatsheet/google-sheet.png" alt="google sheet" width="90%">
 </div>
 
 # Thinking about the Data
@@ -50,19 +50,19 @@
 ## What columns are there?
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/columns.png" alt="columns" width="40%">
+<img src="https://raw.githubusercontent.com/Data-Dunkers/lessons/refs/heads/main/images/cheatsheet/columns.png" alt="columns" width="40%">
 </div>
 
 ## What's at the top of the data?
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/head.png" alt="head()" width="40%">
+<img src="https://raw.githubusercontent.com/Data-Dunkers/lessons/refs/heads/main/images/cheatsheet/head.png" alt="head()" width="40%">
 </div>
 
 ## What's at the bottom of the data?
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/tail.png" alt="tail()" width="40%">
+<img src="https://raw.githubusercontent.com/Data-Dunkers/lessons/refs/heads/main/images/cheatsheet/tail.png" alt="tail()" width="40%">
 </div>
 
 # Cleaning the data
@@ -70,23 +70,23 @@
 ## Deleting rows
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/drop.png" alt="df.drop()" width="40%">
+<img src="https://raw.githubusercontent.com/Data-Dunkers/lessons/refs/heads/main/images/cheatsheet/drop.png" alt="df.drop()" width="40%">
 </div>
 
 ## Fixing a multi-index
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/multi-index-fix.png" alt="df.columns.map('_'.join)" width="70%">
+<img src="https://raw.githubusercontent.com/Data-Dunkers/lessons/refs/heads/main/images/cheatsheet/multi-index-fix.png" alt="df.columns.map('_'.join)" width="70%">
 </div>
 
 ## Renaming Columns
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/rename.png" alt="rename columns" width="60%">
+<img src="https://raw.githubusercontent.com/Data-Dunkers/lessons/refs/heads/main/images/cheatsheet/rename.png" alt="rename columns" width="60%">
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/rename_2.png" alt="rename columns" width="70%">
+<img src="https://raw.githubusercontent.com/Data-Dunkers/lessons/refs/heads/main/images/cheatsheet/rename_2.png" alt="rename columns" width="70%">
 </div>
 
 # Plotly Express
@@ -101,13 +101,13 @@ Here are some cheat sheets or tutorials that might also help you.
 ## Import the library
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/import-plotly-express.png" alt="import plotly.express as px" width="65%">
+<img src="https://raw.githubusercontent.com/Data-Dunkers/lessons/refs/heads/main/images/cheatsheet/import-plotly-express.png" alt="import plotly.express as px" width="65%">
 </div>
 
 ## Bar chart
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/plotly-express-bar-chart.png" alt="fig = px.bar()" width="75%">
+<img src="https://raw.githubusercontent.com/Data-Dunkers/lessons/refs/heads/main/images/cheatsheet/plotly-express-bar-chart.png" alt="fig = px.bar()" width="75%">
 </div>
 
 ## Comparison Operators

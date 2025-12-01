@@ -39,3 +39,11 @@ df.head()
 ## `pd.read_csv()`
 
 Reads a CSV file and loads it into a pandas DataFrame. You use this function to bring external data—such as NBA stats—into your notebook so you can sort, filter, and analyze it.
+
+## plotly.express
+
+A Python library used to create interactive charts such as scatter plots, bar charts, and histograms. It allows you to hover over points, zoom in, and explore data visually with only a few lines of code.
+
+## scatter plot
+
+A chart that shows individual data points on a graph using two numerical variables. Each point represents one row of data—such as a single player—so you can see patterns, clusters, and outliers based on how the points are positioned.

@@ -6,7 +6,7 @@ A table of data in pandas made up of rows and columns. It’s the main structure
 
 ## df.head()
 
-Shows the first few rows of a DataFrame. By default it displays 5 rows, but you can change this by adding a number inside the parentheses (for example, `df.head(10)` shows the first 10 rows).
+Shows the first few rows of a DataFrame. The part before the dot (such as `df` or `df_reduced`) is the name of the DataFrame you are working with. By default it displays 5 rows, but you can change this by adding a number inside the parentheses (for example, `df.head(10)` or `df_reduced.head(10)` shows the first 10 rows).
 
 ## `import pandas as pd`
 

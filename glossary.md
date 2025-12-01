@@ -4,6 +4,10 @@
 
 A table of data in pandas made up of rows and columns. It’s the main structure you use to store, view, sort, filter, and analyze datasets in Python.
 
+## df.head()
+
+Shows the first few rows of a DataFrame. By default it displays 5 rows, but you can change this by adding a number inside the parentheses (for example, `df.head(10)` shows the first 10 rows).
+
 ## `import pandas as pd`
 
 **What it does:**

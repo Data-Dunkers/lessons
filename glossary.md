@@ -1,5 +1,9 @@
 # Glossary
 
+## DataFrame
+
+A table of data in pandas made up of rows and columns. It’s the main structure you use to store, view, sort, filter, and analyze datasets in Python.
+
 ## `import pandas as pd`
 
 **What it does:**
@@ -27,3 +31,7 @@ Pandas gives you powerful ways to load, clean, sort, filter, and analyze dataset
 df = pd.read_csv("your_file.csv")
 df.head()
 ```
+
+## `pd.read_csv()`
+
+Reads a CSV file and loads it into a pandas DataFrame. You use this function to bring external data—such as NBA stats—into your notebook so you can sort, filter, and analyze it.

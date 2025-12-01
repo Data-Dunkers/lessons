@@ -1,0 +1,42 @@
+Value,Description
+id,Unique identifier number
+name,Name of the Pokémon
+base_experience,The base experience gained for defeating this Pokémon
+height,The height of this Pokémon in decimetres
+weight,The weight of this Pokémon in hectograms
+speed,How quickly the Pokémon can act
+hp,How much health the Pokémon has before fainting (Hit Points)
+attack,The Pokémon's ability to deal damage
+defense,The Pokémon's ability to take physical damage
+special-attack,The damage dealt by a special move
+special-defense,How much damage is dealt when a Pokémon is hit by a special move
+forms,Variations among individual Pokémon
+species,The species of Pokémon
+is_default,Set for exactly one Pokémon used as the default for each species
+pokemon_order,"Order for sorting (almost national order, except families are grouped together)"
+type1,The primary type of this Pokémon
+type2,The secondary type of this Pokémon
+ability1,One of the abilities this Pokémon could potentially have
+ability2,One of the abilities this Pokémon could potentially have
+ability3,One of the abilities this Pokémon could potentially have
+base_happiness,"The happiness when caught by a normal Pokéball (up to 255), higher number means happier Pokémon"
+capture_rate,"The base capture rate (up to 255), higher number means easier to catch"
+color,Color of this Pokémon for Pokédex search
+evolves_from_species,The Pokémon species that evolves into this Pokemon_species
+forms_switchable,Whether or not this Pokémon has multiple forms and can switch between them
+generation,The generation this Pokémon species was introduced in
+growth_rate,The rate at which this Pokémon species gains levels
+habitat,The habitat this Pokémon species can be encountered in
+has_gender_differences,Whether or not this Pokémon has visual gender differences
+hatch_counter,"Initial hatch counter: one must walk 255 × (hatch_counter + 1) steps before this Pokémon's egg hatches, unless utilizing bonuses like Flame Body's"
+is_baby,Whether or not this is a baby Pokémon
+is_legendary,Whether or not this is a legendary Pokémon
+is_mythical,Whether or not this is a mythical Pokémon
+species_order,"The order in which species should be sorted (based on National Dex order, except families are grouped together and sorted by stage)"
+pal_park_encounters,A list of encounters that can be had with this Pokémon species in pal park
+shape,The shape of this Pokémon for Pokédex search
+varieties,A list of the Pokémon that exist within this Pokémon species
+egg_group1,An egg group this Pokémon species is a member of
+egg_group2,An egg group this Pokémon species is a member of
+%_female,The chance of this Pokémon being female (if not genderless)
+%_male,The chance of this Pokémon being male (if not genderless)

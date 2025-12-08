@@ -1,5 +1,9 @@
 # Glossary
 
+## bar chart
+
+A bar chart displays numerical values using rectangular bars. Each bar represents a category, and the length or height of the bar shows how large the value is. Bar charts make it easy to compare amounts across different groups or categories at a glance.
+
 ## DataFrame
 
 A table of data in pandas made up of rows and columns. It’s the main structure you use to store, view, sort, filter, and analyze datasets in Python.
